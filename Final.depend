@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1683123048 source:d:\final\baseobject.cpp
+	"BaseObject.h"
+
+1682996773 d:\final\baseobject.h
+	"CommonFunc.h"
+
+1682996713 d:\final\commonfunc.h
+	<windows.h>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"TextObject.h"
+	"BaseObject.h"
+
+1682996467 d:\final\textobject.h
+	"CommonFunc.h"
+
+1683796860 source:d:\final\blockobject.cpp
+	"BlockObject.h"
+
+1682997056 d:\final\blockobject.h
+	"Geometric.h"
+
+1682997005 d:\final\geometric.h
+	"CommonFunc.h"
+
+1683897992 source:d:\final\commonfunc.cpp
+	"CommonFunc.h"
+
+1683123048 source:d:\final\geometric.cpp
+	"Geometric.h"
+
+1682997311 source:d:\final\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1682996632 d:\final\imptimer.h
+
+1683897932 source:d:\final\main.cpp
+	"CommonFunc.h"
+	"PlayerObject.h"
+	"ImpTimer.h"
+	"BlockObject.h"
+	"Geometric.h"
+
+1683898148 d:\final\playerobject.h
+	"CommonFunc.h"
+
+1683897592 source:d:\final\playerobject.cpp
+	"PlayerObject.h"
+
+1683123048 source:d:\final\textobject.cpp
+	"TextObject.h"
+
